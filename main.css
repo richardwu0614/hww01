@@ -1,4 +1,18 @@
 body {
     color: blue;
-    background: gray;
+    background: #ffffff;
+}
+
+blockquote { color: blue ;background-color: gold; }
+h1 { color: rgba(0,0,0,0); }
+strong { color: #00f; color: #f00;}
+p { color: navy }
+p {
+font-family: DFKai-SB, BiauKai,arial;
+}
+
+td[colspan="4"] {
+font-size: 20px;
+font-weight: 900;
+text-align:center;
 }
