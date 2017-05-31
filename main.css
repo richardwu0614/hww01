@@ -4,7 +4,7 @@ body {
 }
 
 blockquote { color: blue ;background-color: gold; }
-h1 { color: rgba(0,0,0,0); }
+h1 { color: rgba(0,0,0,1); }
 strong { color: #00f; color: #f00;}
 p { color: navy }
 p {
